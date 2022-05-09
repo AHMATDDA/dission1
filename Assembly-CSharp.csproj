@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6652AA61-D264-8E47-45BC-E49707FD9C4A}</ProjectGuid>
+    <ProjectGuid>{19DBC149-E455-08FD-B534-D337BE00DE9C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,12 +56,12 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Player\text_log.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
-    <Compile Include="Assets\Scripts\SceneMove\GoAgency.cs" />
-    <Compile Include="Assets\Scripts\SceneMove\GameMng.cs" />
-    <Compile Include="Assets\Scripts\NPC\AgencyText.cs" />
-    <Compile Include="Assets\Scripts\SceneMove\GoSuperMt.cs" />
+    <Compile Include="Assets\Scripts\text_log.cs" />
+    <Compile Include="Assets\Scripts\GoSuperMt.cs" />
+    <Compile Include="Assets\Scripts\AgencyText.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\GoAgency.cs" />
+    <Compile Include="Assets\Scripts\GameMng.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
